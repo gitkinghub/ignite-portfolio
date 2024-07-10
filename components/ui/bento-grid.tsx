@@ -88,7 +88,7 @@ export const BentoGridItem = ({
         {/* imported this from GradientBg --change into something else */}
         {id===6 && (
           <BackgroundGradientAnimation>
-            <div className="absolute z-50 inset-0 flex items-center justify-center text-white font-bold"/>
+            {/* <div className="absolute z-50 inset-0 flex items-center justify-center text-white font-bold"/> */}
           </BackgroundGradientAnimation>
         )}
 

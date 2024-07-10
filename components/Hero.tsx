@@ -21,7 +21,7 @@ export const Hero = () => {
         <GradualSpacing className="text-[40px] md:text-5xl lg:text-6xl" text="Transforming Concepts into Seamless Experiences" />
 
         <p className="md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl py-5">
-          Hi, I&apos;m Samuel, a Frontend Engineer Based in Kenya
+          Hi, I&apos;m Samuel, a Software Engineer
         </p>
 
         {/* my work button */}
